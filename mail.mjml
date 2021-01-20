@@ -1,0 +1,49 @@
+<mjml>
+  <mj-body>
+
+    <!-- Logo Header -->
+    <mj-section background-color="#f0f0f0">
+        <mj-column>
+          <mj-image width="500px" src="/assets/img/dronarfoton_logo.png"></mj-image>
+          <mj-text align="center" font-style="italic" font-size="18px">
+            <p>
+              Gör ditt montage skönare med vår drönare!
+            </p>
+          </mj-text>
+          <mj-divider border-color="#116FCE"></mj-divider>
+        </mj-column>
+    </mj-section>
+
+    <!-- Image Header -->
+    <mj-section background-color="#f0f0f0">
+        <mj-column>
+          <mj-image width="600px" src="/assets/img/header.JPG"></mj-image>
+          <mj-text line-height="30px">
+            <h2>Intresserad av nya fotografier av fastigheten eller nya porträtt fotografier till årskatalogen?</h2>
+          </mj-text>
+          <mj-text line-height="25px" font-size="15px">
+            <p>Vår vision ligger i att underlätta för dig som kund oavsett om du är företag eller privatperson. Vi kan fotografera och filma med både drönare samt reflexkameror.</p>
+            <p>Vi har alla en central roll i att ge dig det bästa bemötande som finns genom att få din fotografering eller filmning gjord till bästa förmåga. Vi använder proffesionell utrustning för högsta kvalité på både filmning & fotografering.</p>
+            <p>Intresserad?</p>
+            <button style="background-color: #116FCE; border: none; padding: 10px; "><a href="https://dronarfoton.com/" style="color: white; font-size: 20px; text-decoration: none;">Läs mer här</a></button>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+    <!-- Footer -->
+    <mj-section background-color="#888888">
+        <mj-column>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+            <mj-social-element name="facebook" href="https://www.facebook.com/Dr%C3%B6narfoton-UF-100177678511809/">
+              Facebook
+            </mj-social-element>
+            <mj-social-element name="instagram" href="https://www.instagram.com/dronarfotonsthlm/">
+              Instagram
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="https://www.linkedin.com/company/74841223">
+              LinkedIn
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
