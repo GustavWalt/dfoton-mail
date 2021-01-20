@@ -4,7 +4,7 @@
     <!-- Logo Header -->
     <mj-section background-color="#f0f0f0">
         <mj-column>
-          <mj-image width="500px" src="/assets/img/dronarfoton_logo.png"></mj-image>
+          <mj-image width="500px" src="https://dronarfoton.com/mail-img/dronarfoton_logo.png"></mj-image>
           <mj-text align="center" font-style="italic" font-size="18px">
             <p>
               Gör ditt montage skönare med vår drönare!
@@ -17,7 +17,7 @@
     <!-- Image Header -->
     <mj-section background-color="#f0f0f0">
         <mj-column>
-          <mj-image width="600px" src="/assets/img/header.JPG"></mj-image>
+          <mj-image width="600px" src="https://dronarfoton.com/mail-img/header.JPG"></mj-image>
           <mj-text line-height="30px">
             <h2>Intresserad av nya fotografier av fastigheten eller nya porträtt fotografier till årskatalogen?</h2>
           </mj-text>
